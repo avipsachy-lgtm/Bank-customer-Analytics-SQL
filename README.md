@@ -2,6 +2,7 @@
 
 
 **Project Overview**
+
 This project analyzes banking customer data using SQL to generate actionable business insights related to customer behavior, account performance, transaction activity, loan distribution, and branch performance.
 The analysis helps identify high-value customers, dormant accounts, transaction trends, customer retention, and loan distribution patterns, enabling data-driven decision-making in the banking sector.
 
