@@ -7,7 +7,7 @@ This project analyzes banking customer data using SQL to generate actionable bus
 The analysis helps identify high-value customers, dormant accounts, transaction trends, customer retention, and loan distribution patterns, enabling data-driven decision-making in the banking sector.
 
 ## Project Status
- In Progress
+ completed
 
 ## Objective
 Analyze customer, account, transaction, and loan data using SQL to generate business insights for banking operations.
